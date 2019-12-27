@@ -1,0 +1,118 @@
+.topnav {
+    background-color: #333;
+    overflow: hidden; 
+  }
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Shadows Into Light', cursive;
+  }
+  
+.topnav a:hover {
+    background-color:white;
+    color: black;
+  }
+  
+.topnav a.active {
+    background-color: #8080ff;
+    color: white;
+  }
+
+.padding-bottom-100 {
+    padding-bottom: 100px; 
+}
+
+img {
+    padding-top: 30px;
+    margin-bottom: 20px; 
+}
+
+.square-250 {
+    width: 250px;
+    height: 250px;
+}
+
+.margin-top-40 {
+    margin-top: 40px;
+}
+
+h1 {
+    text-align: center; 
+    font-weight: 100; 
+    font-family: 'Shadows Into Light', cursive;
+    color: #8080ff;
+    text-shadow: 2px 2px 5px #ff66ff;
+    margin-bottom: 50px !important; 
+}
+
+h2 {
+    text-align: center; 
+    font-family: 'Shadows Into Light', cursive;
+    color: #8080ff; 
+    background-color:#f2e6ff; 
+    padding-top: 15px;
+    padding-bottom: 15px; 
+
+}
+
+h3 {
+    font-family: 'Shadows Into Light', cursive;
+    color:#8080ff; 
+    text-shadow: 2px 2px pink;
+    text-align: center; 
+    padding-top: 30px;
+    padding-bottom: 30px;  
+}
+
+
+h4 {
+    font-family: 'Shadows Into Light', cursive;
+    color:#8080ff; 
+    text-align: center; 
+    padding-top: 40px; 
+}
+
+ul {
+    padding-top: 30px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+  }
+
+li {
+    padding-top: 10px;
+    text-align: center; 
+}
+
+.row {
+    padding-top: 30px;
+    padding-bottom: 30px; 
+}
+
+.footer {
+    background-color: #333; 
+    color: white; 
+    text-align: center;
+}
+
+.footer-text {
+    text-align: center; 
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+}
+
+.col {
+    font-family: inherit;  
+    text-align: left; 
+    font-weight: 300;
+}
+
+
+
+
